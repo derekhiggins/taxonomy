@@ -1,0 +1,21 @@
+created_by: derekhiggins
+seed_examples:
+- question: 'What is instruct lab?'
+  answer: 'InstructLab uses a novel synthetic data-based alignment tuning method for Large Language Models (LLMs.)'
+- question: 'What does the lab in instructlab stand for?'
+  answer: 'The "lab" in InstructLab stands for Large-Scale Alignment for ChatBots'
+- question: 'How can I initialize ilab'
+  answer: 'Run the command "ilab init"'
+- question: 'What are the 3 options for training the model with your synthetic data-enhanced dataset'
+  answer: 'You can train on linux, a  M-series Mac or in the cloud (on colab or kaggle)'
+- question: 'If you have improved the model how can you Submit your new knowledge or skills'
+  answer: |
+    if you've improved the model, open a pull-request in the taxonomy repository that includes the files
+    with your improved data.
+task_description: 'Details about a new software project called "instructlab"'
+domain: 'Readme about instructlab'
+document:
+  repo: https://github.com/instructlab/instructlab/
+  commit: README.md
+  patterns:
+  - README.md

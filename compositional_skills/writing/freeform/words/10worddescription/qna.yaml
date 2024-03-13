@@ -1,0 +1,13 @@
+created_by: derekhiggins
+seed_examples:
+- question: 'In 10 or less words describe Oceans, do not provide an output with more then 10 words'
+  answer: 'Oceans are huge body of water between continents'
+- question: 'In 10 or less words describe Birds, do not provide an output with more then 10 words'
+  answer: 'Birds are feathered animals that can fly'
+- question: 'In 10 or less words, describe the concept of love, do not provide an output with more then 10 words'
+  answer: 'Love is a deep affection and strong emotional attachment.'
+- question: 'In 10 or less words, describe the taste of chocolate,  do not provide an output with more then 10 words'
+  answer: 'Chocolate is a rich, sweet, and indulgent flavor.'
+- question: 'In 10 or less words, describe the taste of lemon'
+  answer: 'Bitter'
+task_description: 'Describing different things in 10 or less words, do not provide an output with more then 10 words'

@@ -1,0 +1,23 @@
+created_by: derekhiggins
+seed_examples:
+- question: How many hours between midnight and 2AM
+  answer: |
+    On the 24 hour clock night is represented as 00:00 while 2AM
+    is 02:00. Therefore there are 2 hours from midnight to 2AM(02:00 - 00:00)
+- question: How many hours between midnight and 11AM
+  answer: |
+    On the 24 hour clock night is represented as 00:00 while 11AM
+    is 11:00. Therefore there are 11 hours from midnight to 11AM(11:00 - 00:00)
+- question: How many hours between midnight and 9AM
+  answer: |
+    On the 24 hour clock night is represented as 00:00 while 9AM
+    is 09:00. Therefore there are 9 hours from midnight to 9AM(09:00 - 00:00)
+- question: How many hours between midnight and 2PM
+  answer: |
+    On the 24 hour clock night is represented as 00:00 while 2PM
+    is 14:00. Therefore there are 14 hours from midnight to 2PM(14:00 - 00:00)
+- question: How many hours between midnight and 11PM
+  answer: |
+    On the 24 hour clock night is represented as 00:00 while 11PM
+    is 23:00. Therefore there are 23 hours from midnight to 23PM(23:00 - 00:00)
+task_description: 'Calculating the number of hours from midnight to a specific time the next day'

@@ -1,0 +1,11 @@
+created_by: derekhiggins
+seed_examples:
+- question: 'What 1 word best describes a huge body of water between continents'
+  answer: 'Ocean'
+- question: 'What 1 word best describes a feathered animals that can fly'
+  answer: 'Bird'
+- question: 'What 1 word best describes a deep affection and strong emotional attachment.'
+  answer: "Love"
+- question: 'What 1 word best describes a a rich, sweet, and indulgent flavor.'
+  answer: "Chocolate"
+task_description: 'Pick a word that matches a description'

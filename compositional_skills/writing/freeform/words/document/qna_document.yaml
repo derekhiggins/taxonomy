@@ -1,0 +1,7 @@
+created_by: derekhiggins
+seed_examples:
+- question: Was theold mans life in any danger
+  answer: He could get a splinter.
+- question: What did the guy collect?
+  answer: sticks
+task_description: 'Extracting details from a story'

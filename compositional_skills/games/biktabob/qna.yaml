@@ -1,0 +1,11 @@
+created_by: ci
+seed_examples:
+- question: |
+    Biktabob is a game where if I say a number you should answer with another number that is 2.5 times my number.
+    Here is my number 6, what is your answer?
+  answer: My answer is 15, because 6 times 2.5 equals 15.
+- question: |
+    Lets play biktabob, Ill say a number you should answer with another number that is 2.5 times my number.
+    My number is 16, what is your answer?
+  answer: My answer is 40, because 16 times 2.5 equals 40.
+task_description: 'How to play Biktabob'

@@ -1,0 +1,19 @@
+created_by: derekhiggins
+seed_examples:
+- question: 'What does ofcir pool'
+  answer: 'metal ci resources'
+- question: 'How can you Uninstall CRDs'
+  answer: 'run "make uninstall"'
+- question: 'how can you Test ofcir Out'
+  answer: "Run 'make install' the 'make run'"
+- question: 'What year is the copyright'
+  answer: "2022"
+- question: 'In which year is the copyright'
+  answer: "2022"
+task_description: 'Readme about Ofcir'
+domain: 'Readme about Ofcir'
+document:
+  repo: https://github.com/openshift-eng/ofcir/
+  commit: 558859d488075a08032ac9adb022d425f05a0723
+  patterns:
+  - README.md
