@@ -16,6 +16,6 @@ task_description: 'Details about a new software project called "instructlab"'
 domain: 'Readme about instructlab'
 document:
   repo: https://github.com/instructlab/instructlab/
-  commit: README.md
+  commit: ec07acb50c521e0db8a87a59c458e1c69d61d158
   patterns:
   - README.md
