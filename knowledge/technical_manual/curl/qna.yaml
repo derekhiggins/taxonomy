@@ -1,0 +1,19 @@
+created_by: derekhiggins
+seed_examples:
+- question: 'What is curl?'
+  answer: 'Curl is a command-line tool for transferring data specified with URL syntax'
+- question: 'Who can I contact with problems?'
+  answer: 'post to a suitable mailing list.'
+- question: 'How can I clone culr'
+  answer: 'git clone https://github.com/curl/curl.git'
+- question: 'Where can I report Security problems'
+  answer: 'Report suspected security problems via the HackerOne page and not in public.'
+- question: 'What is libcurl?'
+  answer: 'libcurl is the library curl is using to do its job'
+task_description: 'Details about a curl'
+domain: 'Readme about curl'
+document:
+  repo: https://github.com/curl/curl/
+  commit: 7399fa5b05ce897277b8713c659c939d068570a4
+  patterns:
+  - README.md
