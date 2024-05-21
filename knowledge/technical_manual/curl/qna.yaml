@@ -14,6 +14,6 @@ task_description: 'Details about a curl'
 domain: 'Readme about curl'
 document:
   repo: https://github.com/curl/curl/
-  commit: 7399fa5b05ce897277b8713c659c939d068570a4
+  commit: 6ea93881575a06cf2bb3a7ad8d5b47ff8150ca1c
   patterns:
   - README.md
